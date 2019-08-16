@@ -22,7 +22,7 @@ os.system("figlet DDos SCK")
 print
 print "Website  : https://check-th.tk "
 print "You Tube : https://www.youtube.com/c/Scriptking SCK"
-print "© G-Anonymous"
+print "By: checkTH"
 print "Facebook : https://m.facebook.com/Talovejub.270361"
 print
 ip = raw_input("IP Target : ")
